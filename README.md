@@ -10,4 +10,4 @@ I have made a simple calculator using this framework and a bit of css.
 
 Feel free to clone, download or fork this repository and try to learn react.js. 
 
-For more details about react.js -> [Click Me!](reactjs.org/)
+For more details about react.js -> [Click Me!](https://reactjs.org/)
